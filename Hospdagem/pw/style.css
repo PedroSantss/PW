@@ -1,0 +1,19 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+body{
+    display: flex;
+}
+
+.navbar{
+    width: 100%;
+    padding: 2rem;
+}
+
+form{
+    background-color: red;
+    padding: 2rem;
+    width: 100%;
+}
