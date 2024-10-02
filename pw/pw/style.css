@@ -1,0 +1,42 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+body{
+    background-image: linear-gradient(	#F5FFFA,#FFFFF0 ) !important;;
+}
+
+nav{
+    z-index: 3;
+    position: absolute;
+    background-image: linear-gradient(#00FFFF, #191970, #483D8B  ) !important;
+    width: 100%;    
+    padding: 8rem;
+}
+
+.teste{
+    z-index: 4;
+    display: flex;
+    align-items: center;
+    padding-top: 3rem;
+}
+
+.logo{
+    z-index: 5;
+    position: absolute;
+    display: flex;
+}
+
+form{
+    padding: 4rem;
+    width: 100%;
+}
+
+.d-block {
+    padding-left:15px;
+    border-left: 5px solid #2E2F44;
+    text-decoration: none;
+    background-color: #ffffff;
+    background-image: linear-gradient(to right, #2E2F44 0px, transparent 10px, transparent 10px); /* o gradiente começa no 0px e vai até o 10px começa na sua cor e termina transparente */
+ }
