@@ -1,0 +1,21 @@
+body{
+    background-color: rgb(0, 124, 173);
+    color: white;
+}
+img{
+    border: 10px;
+    border-radius: 10px;
+}
+a{
+    font-size: 30px;
+}
+h1{
+    margin-left: 500px;
+    margin-right: 450px;
+    font-size: x-large;
+}
+img{
+    margin-left: 500px;
+    margin-right: 450px;
+    font-size: x-large;
+}
